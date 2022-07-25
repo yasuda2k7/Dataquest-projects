@@ -1,5 +1,5 @@
 # Dataquest-projects
-This is where all my Dataquest projects will be stored.
+This is where all my completed Dataquest projects are stored.
 
 ## A note on naming conventions
 At the beginning my Dataquest journey, I named my notebooks like "dq_(number)_...", but later realized they weren't very descriptive.
